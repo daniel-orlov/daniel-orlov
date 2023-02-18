@@ -11,7 +11,7 @@ Note: I have been mostly working with GitLab in the last few years, so here, on 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-orlov&layout=compact&theme=gotham&langs_count=8#gh-dark-mode-only)
 
 ## `My Tech Stack`
-![](https://skillicons.dev/icons?i=go,py,django,bash,postgres,firebase,mongo,redis,kafka,gcp,aws,azure,docker,kubernetes,git,github,gitlab,grafana,prometheus,sentry,postman,ae,au,pr&theme=dark&perline=5)
+![](https://skillicons.dev/icons?i=go,py,django,bash,postgres,firebase,mongo,redis,kafka,gcp,aws,azure,docker,kubernetes,git,github,gitlab,grafana,prometheus,sentry,postman,ae,au,pr&theme=dark&perline=12)
 
 Note: Some icons are missing, I will add them as soon as they are available.
 
@@ -19,7 +19,7 @@ Note: Some icons are missing, I will add them as soon as they are available.
 
 ## `Currently focused on ...`
 #### `Leveling up my FrontEnd and JavaScript skills to become a FullStack Developer.`
-![](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,nodejs,express,&theme=dark&perline=5)
+![](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,nodejs,express&theme=dark&perline=12)
 
 ## `Learning next`
 ![](https://skillicons.dev/icons?i=typescript,svelte,solidity&theme=dark&perline=9)
