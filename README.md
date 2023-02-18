@@ -8,6 +8,7 @@ Note: I have been mostly working with GitLab in the last few years, so here, on 
 
 ## `My GitHub Stats`
 ![Daniel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=daniel-orlov&show_icons=true&theme=gotham&count_private=true#gh-dark-mode-only)
+![GitHub Streak](https://streak-stats.demolab.com?user=daniel-orlov&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-orlov&layout=compact&theme=gotham&langs_count=8#gh-dark-mode-only)
 
 ## `My Tech Stack`
