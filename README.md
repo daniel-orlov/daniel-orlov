@@ -8,7 +8,7 @@ Note: I have been mostly working with GitLab in the last few years, so here, on 
 
 ## `My GitHub Stats`
 ![Daniel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=daniel-orlov&show_icons=true&theme=gotham&count_private=true#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-orlov&layout=compact&theme=gotham&langs_count=10#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-orlov&layout=compact&theme=gotham&langs_count=8#gh-dark-mode-only)
 
 ## `My Tech Stack`
 ![](https://skillicons.dev/icons?i=go,py,django,bash,postgres,firebase,mongo,redis,kafka,gcp,aws,azure,docker,kubernetes,git,github,gitlab,grafana,prometheus,sentry,postman,ae,au,pr&theme=dark&perline=5)
