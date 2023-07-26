@@ -7,6 +7,8 @@ I'm currently working at [Orbisk.com](https://www.orbisk.com/), fighting the goo
 Note: I have been mostly working with GitLab in the last few years, so here, on GitHub, you will find my personal
 projects, learning projects, and some open source contributions.
 
+If you're curious about my usual working style, just scroll down to the pinned repositories, where you'll find a collection of showcases.
+
 ## `My GitHub Stats`
 
 ![Daniel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=daniel-orlov&show_icons=true&theme=gotham&count_private=true#gh-dark-mode-only)
@@ -35,4 +37,3 @@ TBA
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-orlov/)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danielorlov)
-[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/1llm1nt1)
