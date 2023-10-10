@@ -9,7 +9,8 @@ projects, learning projects, and some open source contributions.
 
 If you're curious about my usual working style, just scroll down to the pinned repositories, where you'll find a collection of showcases.
 
-## `Latest blog posts'
+## `Latest blog posts`
+
 - [Slog: The Future Face of Go Logging?](https://itnext.io/slog-the-future-face-of-go-logging-d82ee9073a04)
 - [Go Excellence: Three Common Interface Mistakes Even Seasoned Devs Overlook](https://itnext.io/go-excellence-three-common-interface-mistakes-even-seasoned-developers-overlook-1cbf077767d8)
 - [Go Excellence: A Deep Dive into Error Handling](https://itnext.io/go-excellence-a-deep-dive-into-error-handling-4b74697f12a1)
