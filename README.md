@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=258F76&lines=Hello,+I+am+Daniel;Bonjour,+je+m'appele+Daniel;Tere,+ma+olen+Daniel;Tjena,+jag+är+Daniel;Привет,+ну+как+там+с+деньгами?;)](https://git.io/typing-svg)
 
-Software Engineer. Based in the Netherlands 🇳🇱
+Software Engineer. Based in Denmark 🇩🇰
 
-I'm currently working at [Orbisk.com](https://www.orbisk.com/), fighting the good fight against the food waste.
+I'm currently working at [Maersk](https://www.maersk.com/), integrating teams to make zero-emission future a reality.
 
-Note: I have been mostly working with GitLab in the last few years, so here, on GitHub, you will find my personal
-projects, learning projects, and some open source contributions.
+Note: Before joining Maersk, I have been mostly working with GitLab in the last few years, so here, on GitHub, you will find my personal
+projects, learning projects, some open source contributions.
 
 If you're curious about my usual working style, just scroll down to the pinned repositories, where you'll find a collection of showcases.
 
@@ -35,13 +35,13 @@ Note: Some icons are missing, I will add them as soon as they are available.
 
 ## `Currently focused on ...`
 
-#### `Expanding horizons of my knowledge of programming with Internet Computer, blockchain, and smart contracts`
+#### `Digging deeper into the world of Kubernetes, Kafka and Azure`
 
-<img src="./assets/Internet_Computer_ICP_Icon.png" width="90" alt="internet computer logo" />
+![](https://skillicons.dev/icons?i=kafka,azure,kubernetes&theme=dark&perline=11)
 
 ## `Learning next`
 
-TBA
+![](https://skillicons.dev/icons?i=grafana&theme=dark&perline=11)
 
 ## `Drop me a line`
 
