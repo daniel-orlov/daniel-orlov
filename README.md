@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=258F76&lines=Hello,+I+am+Daniel;Bonjour,+je+m'appele+Daniel;Tere,+ma+olen+Daniel;Tjena,+jag+är+Daniel;Привет,+ну+как+там+с+деньгами?;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=258F76&lines=Hello,+I+am+Daniel;Bonjour,+je+m'appele+Daniel;Tere,+ma+olen+Daniel;Tjena,+jag+är+Daniel;Привет,+ну+как+там+с+деньгами?;Hej,+jeg+hedder+Daniel;)](https://git.io/typing-svg)
 
 Software Engineer. Based in Denmark 🇩🇰
 
